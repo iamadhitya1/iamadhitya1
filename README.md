@@ -22,8 +22,7 @@ I don't wait to be senior enough, experienced enough, or credentialed enough. I 
 <td valign="top" width="50%">
 
 **What I've shipped:**
-- 🏗️ **[Rewrite Labs](https://rewritelabs.vercel.app/)** — AI-powered engineering career platform · Live
-- 📊 **[DataPulse](https://github.com/iamadhitya1/datapulse)** — AI data visualization engine · Live
+- 🏗️ **6 live AI-powered apps** under Rewrite Labs
 - 📕 **The Rewrite** — Independently published book · Dec 2025
 - 📰 **Code & Context** — Newsletter · **3,236 subscribers**
 
@@ -31,10 +30,10 @@ I don't wait to be senior enough, experienced enough, or credentialed enough. I 
 <td valign="top" width="50%">
 
 **By the numbers:**
-- 🚀 **2 live products** built and deployed
+- 🚀 **6 live products** — all built solo
 - 📖 **8,635 LinkedIn followers**
 - 📬 **3,236 newsletter subscribers**
-- 🎯 Currently in **Deep Work mode** — shipping the next one
+- 🎯 Currently: **Deep Work mode**
 
 </td>
 </tr>
@@ -42,14 +41,18 @@ I don't wait to be senior enough, experienced enough, or credentialed enough. I 
 
 ---
 
-## 🚀 Projects
+## 🚀 Rewrite Labs — Product Suite
 
-| Project | What it does | Stack | Status |
-|--------|-------------|-------|--------|
-| [Rewrite Labs](https://rewritelabs.vercel.app/) | AI-powered platform redefining how engineers learn, grow, and build careers | React, Tailwind CSS | 🟢 Live |
-| [DataPulse](https://github.com/iamadhitya1/datapulse) | Drop any dataset, get instant AI-generated charts and insights — zero backend | React, Vite, Recharts, LLM APIs | 🟢 Live |
-| Library Management System | Full console-based system — books, members, borrowing records | Java, OOP | ✅ Shipped |
-| Venue Booking & Event Management | Team project built with BDD, full SDLC lifecycle | Java | ✅ Shipped |
+*6 AI-powered tools. All live. All built solo.*
+
+| Product | What it does | Stack | Link |
+|--------|-------------|-------|------|
+| 🏗️ **Rewrite OS** | The Engineering Career Operating System — built for engineers who refuse to follow the script | React, Tailwind CSS | [Live ↗](https://rewriteos-rwl.vercel.app/) |
+| 📊 **DataPulse** | Drop any dataset, get instant AI-generated charts and insights — zero backend | React, Vite, Recharts | [Live ↗](https://datapulse-rwl.vercel.app/) |
+| ⚖️ **Unclause** | AI legal document analyzer — plain English summaries, risky clause detection, document Q&A. Runs 100% in-browser | React, AI APIs | [Live ↗](https://unclause-rwl.vercel.app/) |
+| 📖 **Lectura.AI** | AI research platform — summaries, flashcards, study tools, and deep document analysis | React, AI APIs | [Live ↗](https://lectura-rwl.vercel.app/) |
+| 👁️ **FocusVision** | Real-time AI distraction detection for deep work sessions | React, AI APIs | [Live ↗](https://focusvision-rwl.vercel.app/) |
+| ✍️ **Tonefix** | AI tone analyzer — reads your message the way a stranger would and tells you exactly what's landing wrong | Vanilla JS, AI APIs | [Live ↗](https://tonefix-rwl.vercel.app/) |
 
 ---
 
@@ -109,7 +112,7 @@ I don't wait to be senior enough, experienced enough, or credentialed enough. I 
 
 ![Adhitya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamadhitya1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iamadhitya1&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=iamadhitya1&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamadhitya1&layout=compact&theme=tokyonight&hide_border=true)
 
@@ -134,3 +137,4 @@ If you're building something ambitious or want to talk AI products, system desig
 **— M. Adhitya, Founder @ Rewrite Labs**
 
 </div>
+
