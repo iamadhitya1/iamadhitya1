@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00C896&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+M.+Adhitya+%F0%9F%91%8B;Founder+%40+Rewrite+Labs;AI+Researcher+%7C+Technical+Writer;Systems.+Intelligence.+Growth.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00C896&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+M.+Adhitya+%F0%9F%91%8B;I+build+AI-powered+products;Founder+%40+Rewrite+Labs;I+ship+things+that+matter.)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/loveadhitya/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamadhitya1)
@@ -11,29 +11,30 @@
 
 ---
 
-## About
+## I build AI-powered products. Then I ship them.
 
-B.Tech Computer Engineering @ **IITRAM, Ahmedabad** (2023–2027) · Founder of **[Rewrite Labs](https://rewritelabs.vercel.app/)** — the Operating System for the next generation of engineers.
+B.Tech Computer Engineering @ **IITRAM, Ahmedabad** (2023–2027) · Founder of **[Rewrite Labs](https://rewritelabs.vercel.app/)**.
 
-I work at the intersection of **AI, systems thinking, and human psychology** — writing, researching, and shipping publicly.
+I don't wait to be senior enough, experienced enough, or credentialed enough. I pick a problem, build the solution, and put it in front of real people. That's the whole philosophy.
 
 <table>
 <tr>
 <td valign="top" width="50%">
 
 **What I've shipped:**
+- 🏗️ **[Rewrite Labs](https://rewritelabs.vercel.app/)** — AI-powered engineering career platform · Live
+- 📊 **[DataPulse](https://github.com/iamadhitya1/datapulse)** — AI data visualization engine · Live
 - 📕 **The Rewrite** — Independently published book · Dec 2025
 - 📰 **Code & Context** — Newsletter · **3,236 subscribers**
-- 🏗️ **[Rewrite Labs](https://rewritelabs.vercel.app/)** — The Engineering Career OS
-- 📊 **[DataPulse](https://github.com/iamadhitya1/datapulse)** — Instant data insights engine
 
 </td>
 <td valign="top" width="50%">
 
-**Right now:**
-- 🎯 Deep Work mode — building systems, finishing my degree
-- 🤖 Exploring Generative AI & LLM applications
-- 📖 **8,635 LinkedIn followers · 3,236 newsletter subscribers**
+**By the numbers:**
+- 🚀 **2 live products** built and deployed
+- 📖 **8,635 LinkedIn followers**
+- 📬 **3,236 newsletter subscribers**
+- 🎯 Currently in **Deep Work mode** — shipping the next one
 
 </td>
 </tr>
@@ -41,27 +42,14 @@ I work at the intersection of **AI, systems thinking, and human psychology** —
 
 ---
 
-## ✍️ Featured Work
-
-**📕 The Rewrite: 12 Lives That Escaped the Script** · *Independent Publishing, Dec 2025*
-> 12 real stories of people who burned the blueprint. Written for Gen Z engineers who refuse to follow the script. Recognized for challenging traditional academic blueprints.
-
-**📰 Code & Context** · *Weekly Newsletter · 3,236 Subscribers*
-> Bridging raw Engineering with Human Psychology. Practical AI, Python, and System Design — for people who want to think and build better.
-
-**🏗️ [Rewrite Labs](https://rewritelabs.vercel.app/)** · *Platform*
-> The Engineering Career Operating System. A manifesto and platform challenging how engineers learn, grow, and build careers.
-
----
-
 ## 🚀 Projects
 
-| Project | Description | Stack | Status |
+| Project | What it does | Stack | Status |
 |--------|-------------|-------|--------|
-| [Rewrite Labs](https://rewritelabs.vercel.app/) | The Engineering Career Operating System | React, Tailwind CSS | 🟢 Live |
-| [DataPulse](https://github.com/iamadhitya1/datapulse) | Drop your data. Get instant insights. Client-side data visualization engine for analysts | React, Vite, Recharts | 🟢 Live |
-| Library Management System | Console-based system managing books, members & borrowing records | Java, OOP | ✅ Complete |
-| Venue Booking & Event Management | SDLC-driven team project using Behaviour Driven Development | Java | ✅ Complete |
+| [Rewrite Labs](https://rewritelabs.vercel.app/) | AI-powered platform redefining how engineers learn, grow, and build careers | React, Tailwind CSS | 🟢 Live |
+| [DataPulse](https://github.com/iamadhitya1/datapulse) | Drop any dataset, get instant AI-generated charts and insights — zero backend | React, Vite, Recharts, LLM APIs | 🟢 Live |
+| Library Management System | Full console-based system — books, members, borrowing records | Java, OOP | ✅ Shipped |
+| Venue Booking & Event Management | Team project built with BDD, full SDLC lifecycle | Java | ✅ Shipped |
 
 ---
 
@@ -94,6 +82,16 @@ I work at the intersection of **AI, systems thinking, and human psychology** —
 
 ---
 
+## ✍️ Beyond Code
+
+**📕 The Rewrite: 12 Lives That Escaped the Script** · *Independent Publishing, Dec 2025*
+> 12 real stories of people who burned the blueprint. Written for engineers who refuse to follow the script.
+
+**📰 Code & Context** · *Weekly · 3,236 Subscribers*
+> Practical AI, Python, and System Design — written for builders, not spectators.
+
+---
+
 ## 🏆 Certifications
 
 | Certification | Issuer | Year |
@@ -121,11 +119,11 @@ I work at the intersection of **AI, systems thinking, and human psychology** —
 
 ## 🤝 Let's Connect
 
-Open to conversations on AI, system design, writing, and building products that matter.
+If you're building something ambitious or want to talk AI products, system design, or just good ideas —
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/loveadhitya/) — 8,635 followers
 - 🌐 [Rewrite Labs](https://rewritelabs.vercel.app/)
-- 📬 Best way to reach me: **LinkedIn DM**
+- 📬 **LinkedIn DM** is the fastest way to reach me
 
 ---
 
