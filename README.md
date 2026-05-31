@@ -1,102 +1,100 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=M%20Adhitya&fontSize=42&fontColor=ffffff&fontAlignY=65&desc=Founder%20%C2%B7%20Engineer%20%C2%B7%20Builder&descAlignY=85&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a2a,100:52B788&height=140&section=header&text=M%20Adhitya&fontSize=48&fontColor=ffffff&fontAlignY=60&desc=Building%20AI%20products%20that%20ship.&descAlignY=78&descSize=15&descColor=52B788" width="100%"/>
 
-**B.Tech Computer Engineering · IITRAM Ahmedabad · 2023–2027**
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-8600%2B%20followers-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/loveadhitya/)
-[![Newsletter](https://img.shields.io/badge/Code%20%26%20Context-3200%2B%20subscribers-FF6314?style=flat-square&logo=substack)](https://www.linkedin.com/in/loveadhitya/)
-[![Rewrite Labs](https://img.shields.io/badge/Rewrite%20Labs-rewritelabs.vercel.app-black?style=flat-square)](https://rewritelabs.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/8600%2B%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/loveadhitya/)
+[![Newsletter](https://img.shields.io/badge/3200%2B%20Newsletter%20Readers-FF6314?style=for-the-badge&logo=substack&logoColor=white)](https://rewritelabs.vercel.app)
+[![Rewrite Labs](https://img.shields.io/badge/Rewrite%20Labs-Live%20Products-52B788?style=for-the-badge)](https://rewritelabs.vercel.app)
+
+<br/>
+
+*B.Tech Computer Engineering · IITRAM Ahmedabad · 2023–2027*
 
 </div>
 
 ---
 
-## 🏗 What I Build
+## Who I am
 
-Founder and sole engineer of **[Rewrite Labs](https://rewritelabs.vercel.app)** — 6 live AI-powered apps, built and shipped independently. No team. No funding. Just building.
+Founder and sole engineer of **Rewrite Labs** — 7 live AI-powered apps, built and shipped independently while in college. No team. No funding. Just building.
 
-| App | Description |
-|-----|-------------|
-| 🖥 [Rewrite OS](https://rewriteos-rwl.vercel.app) | AI-powered operating system experience |
-| 📊 [DataPulse](https://datapulse-rwl.vercel.app) | AI analytics dashboard |
-| ⚖️ [Unclause](https://unclause-rwl.vercel.app) | Legal document analyzer — plain-English risk breakdown |
-| 📚 [Lectura.AI](https://lectura-rwl.vercel.app) | AI reading assistant |
-| 👁 [FocusVision](https://focusvision-rwl.vercel.app) | AI focus & productivity tool |
-| 🎙 [Tonefix](https://tonefix-rwl.vercel.app) | AI tone & writing fixer |
-| 🌿 [Sage](https://joinsage.vercel.app) | AI nutrition coach |
-| 📖 The Rewrite *(book)* | Self-published · Dec 2025 · *12 Lives That Escaped the Script* |
+I also extract the best parts of my production code into **open source libraries** so other devs can use them.
+
+> *"The degree is the floor, not the ceiling. Stop waiting for permission to build."*
 
 ---
 
-## 🛠 Tech Stack
+## 🏗 Rewrite Labs — Live Products
 
-**Frontend**
+| | App | What it does |
+|-|-----|-------------|
+| 🖥 | [Rewrite OS](https://rewriteos-rwl.vercel.app) | AI-powered OS-style productivity interface |
+| 📊 | [DataPulse](https://datapulse-rwl.vercel.app) | AI analytics dashboard |
+| ⚖️ | [Unclause](https://unclause-rwl.vercel.app) | Legal document analyzer — plain-English risk breakdown |
+| 📚 | [Lectura.AI](https://lectura-rwl.vercel.app) | AI reading assistant |
+| 👁 | [FocusVision](https://focusvision-rwl.vercel.app) | AI focus & productivity tool |
+| 🎙 | [Tonefix](https://tonefix-rwl.vercel.app) | AI tone & writing fixer |
+| 🌿 | [Sage](https://joinsage.vercel.app) | AI nutrition coach — log meals naturally, track macros |
+
+All apps have **Pro subscription tiers** · All built and deployed solo · All monetized with Razorpay
+
+---
+
+## 📦 Open Source Libraries
+
+Production code extracted into reusable libraries — built from real apps, used in production.
+
+| Library | What it does | Lang |
+|---------|-------------|------|
+| [react-macro-rings](https://github.com/iamadhitya1/react-macro-rings) | Animated SVG progress rings — calories, macros, any metric | React |
+| [react-premium-gate](https://github.com/iamadhitya1/react-premium-gate) | Razorpay subscription paywall components + Vercel API templates | React |
+| [react-toast-native](https://github.com/iamadhitya1/react-toast-native) | Lightweight toast notifications — 4 types, zero deps | React |
+| [groq-chain](https://github.com/iamadhitya1/groq-chain) | Dead-simple Groq LLM chaining — no LangChain bloat | Python |
+
+---
+
+## 🛠 Stack
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-**Backend & AI**
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq%20API-F55036?style=flat-square)
+![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=3395FF)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
-**Infra & Payments**
-
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=3395FF)
-
-**Languages**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-
 ---
 
-## 📊 GitHub Stats
+## 📊 Activity
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=iamadhitya1&theme=dark&background=0d1117&border=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamadhitya1&layout=donut&theme=dark&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&langs_count=6" height="165"/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=iamadhitya1&theme=dark&background=0d1117&border=1a3a2a&ring=52B788&fire=52B788&currStreakLabel=52B788&sideLabels=52B788&dates=4a6a4a)](https://github.com/iamadhitya1)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iamadhitya1&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)](https://github.com/iamadhitya1)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iamadhitya1&bg_color=0d1117&color=52B788&line=52B788&point=ffffff&area=true&area_color=52B788&hide_border=true)](https://github.com/iamadhitya1)
 
 </div>
 
 ---
 
-<div align="center">
+## 📖 Also wrote a book
 
-| Repo | What it does | Stack |
-|------|-------------|-------|
-| [🔍 credit-card-fraud-detection](https://github.com/iamadhitya1/credit-card-fraud-detection) | Random Forest classifier on imbalanced transaction data. ROC curves, confusion matrix, feature importance. | Python · scikit-learn |
-| [📚 library-management-system](https://github.com/iamadhitya1/library-management-system) | Full OOP library system — borrow/return, fine calculation, role-based access. B.Tech project @ IITRAM. | Java |
-| [🧠 nexus](https://github.com/iamadhitya1/nexus) | Multi-agent research system built with Ollama | Python |
+**The Rewrite: 12 Lives That Escaped the Script** — published December 2025.
+Stories of people who ignored the default path and built something real.
 
-</div>
+Available at [rewritelabs.vercel.app](https://rewritelabs.vercel.app)
 
 ---
 
 <div align="center">
 
-*"The degree is the floor, not the ceiling. Stop waiting for permission to build."*
+**If any of my libraries saved you time — drop a ⭐ and follow for more.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer" width="100%"/>
-
-</div>
----
-
-<div align="center">
-
-*"The degree is the floor, not the ceiling. Stop waiting for permission to build."*
-
-**— M. Adhitya, Founder @ Rewrite Labs**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:52B788,100:0d1117&height=80&section=footer" width="100%"/>
 
 </div>
-
