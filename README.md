@@ -46,12 +46,15 @@ All apps have **Pro subscription tiers** · All built and deployed solo · All m
 
 Production code extracted into reusable libraries — built from real apps, used in production.
 
-| Library | What it does | Lang |
-|---------|-------------|------|
-| [react-macro-rings](https://github.com/iamadhitya1/react-macro-rings) | Animated SVG progress rings — calories, macros, any metric | React |
-| [react-premium-gate](https://github.com/iamadhitya1/react-premium-gate) | Razorpay subscription paywall components + Vercel API templates | React |
-| [react-toast-native](https://github.com/iamadhitya1/react-toast-native) | Lightweight toast notifications — 4 types, zero deps | React |
-| [groq-chain](https://github.com/iamadhitya1/groq-chain) | Dead-simple Groq LLM chaining — no LangChain bloat | Python |
+| Library | What it does | Install |
+|---------|-------------|---------|
+| [react-macro-rings](https://github.com/iamadhitya1/react-macro-rings) | Animated SVG progress rings — calories, macros, any metric | [![npm](https://img.shields.io/npm/v/react-macro-rings.svg?style=flat-square)](https://www.npmjs.com/package/react-macro-rings) |
+| [react-premium-gate](https://github.com/iamadhitya1/react-premium-gate) | Razorpay subscription paywall components + Vercel API templates | [![npm](https://img.shields.io/npm/v/react-premium-gate.svg?style=flat-square)](https://www.npmjs.com/package/react-premium-gate) |
+| [react-toast-native](https://github.com/iamadhitya1/react-toast-native) | Lightweight toast notifications — 4 types, zero deps | [![npm](https://img.shields.io/npm/v/react-toast-native.svg?style=flat-square)](https://www.npmjs.com/package/react-toast-native) |
+| [react-offline-first](https://github.com/iamadhitya1/react-offline-first) | React + Vite offline-first template — IndexedDB, service worker, sync engine | template |
+| [groq-chain](https://github.com/iamadhitya1/groq-chain) | Dead-simple Groq LLM chaining — no LangChain bloat | [![PyPI](https://img.shields.io/pypi/v/groq-chain.svg?style=flat-square)](https://pypi.org/project/groq-chain/) |
+| [fraud-shield](https://github.com/iamadhitya1/fraud-shield) | Fraud detection on transaction data — Random Forest, one class, clean API | [![PyPI](https://img.shields.io/pypi/v/fraud-shield.svg?style=flat-square)](https://pypi.org/project/fraud-shield/) |
+| [llm-router](https://github.com/iamadhitya1/llm-router) | Routes prompts to the right LLM by complexity + cost — Groq, OpenAI, Anthropic | [![PyPI](https://img.shields.io/pypi/v/llm-dispatch.svg?style=flat-square)](https://pypi.org/project/llm-dispatch/) |
 
 ---
 
