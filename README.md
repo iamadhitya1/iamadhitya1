@@ -62,18 +62,25 @@ Founder and sole engineer of **[Rewrite Labs](https://rewritelabs.vercel.app)** 
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamadhitya1&show_icons=true&theme=dark&bg_color=0d1117&border_color=30363d&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
+[![GitHub Streak](https://streak-stats.demolab.com?user=iamadhitya1&theme=dark&background=0d1117&border=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)](https://github.com/iamadhitya1)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamadhitya1&layout=compact&theme=dark&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9)
+[![trophy](https://github-profile-trophy.vercel.app/?username=iamadhitya1&theme=darkhub&no-frame=true&row=1&column=6)](https://github.com/iamadhitya1)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iamadhitya1&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)](https://github.com/iamadhitya1)
 
 </div>
 
 ---
 
-## 📌 Featured Repos
+<div align="center">
 
-[![credit-card-fraud-detection](https://github-readme-stats.vercel.app/api/pin/?username=iamadhitya1&repo=credit-card-fraud-detection&theme=dark&bg_color=0d1117&border_color=30363d&title_color=58a6ff&icon_color=58a6ff)](https://github.com/iamadhitya1/credit-card-fraud-detection)
-[![library-management-system](https://github-readme-stats.vercel.app/api/pin/?username=iamadhitya1&repo=library-management-system&theme=dark&bg_color=0d1117&border_color=30363d&title_color=58a6ff&icon_color=58a6ff)](https://github.com/iamadhitya1/library-management-system)
+| Repo | What it does | Stack |
+|------|-------------|-------|
+| [🔍 credit-card-fraud-detection](https://github.com/iamadhitya1/credit-card-fraud-detection) | Random Forest classifier on imbalanced transaction data. ROC curves, confusion matrix, feature importance. | Python · scikit-learn |
+| [📚 library-management-system](https://github.com/iamadhitya1/library-management-system) | Full OOP library system — borrow/return, fine calculation, role-based access. B.Tech project @ IITRAM. | Java |
+| [🧠 nexus](https://github.com/iamadhitya1/nexus) | Multi-agent research system built with Ollama | Python |
+
+</div>
 
 ---
 
