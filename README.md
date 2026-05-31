@@ -62,9 +62,8 @@ Founder and sole engineer of **[Rewrite Labs](https://rewritelabs.vercel.app)** 
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=iamadhitya1&theme=dark&background=0d1117&border=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)](https://github.com/iamadhitya1)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=iamadhitya1&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=15)](https://github.com/iamadhitya1)
+<img src="https://streak-stats.demolab.com?user=iamadhitya1&theme=dark&background=0d1117&border=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamadhitya1&layout=donut&theme=dark&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&langs_count=6" height="165"/>
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iamadhitya1&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)](https://github.com/iamadhitya1)
 
