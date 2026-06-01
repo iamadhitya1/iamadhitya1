@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a1a05,100:39FF14&height=150&section=header&text=M%20Adhitya&fontSize=52&fontColor=ffffff&fontAlignY=58&desc=Solo%20founder.%206%20AI%20tools.%207%20OSS%20libraries.%20Still%20in%20college.&descAlignY=78&descSize=14&descColor=39FF14" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a1a05,100:39FF14&height=150&section=header&text=M%20Adhitya&fontSize=52&fontColor=ffffff&fontAlignY=58&desc=Solo%20founder.%208%20AI%20tools.%207%20OSS%20libraries.%20Still%20in%20college.&descAlignY=78&descSize=14&descColor=39FF14" width="100%"/>
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/8600%2B%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/loveadhitya/)
-[![Rewrite Labs](https://img.shields.io/badge/Rewrite%20Labs-6%20Live%20AI%20Tools-39FF14?style=for-the-badge&labelColor=0d1117)](https://rewritelabs.vercel.app)
+[![Rewrite Labs](https://img.shields.io/badge/Rewrite%20Labs-8%20Live%20AI%20Tools-39FF14?style=for-the-badge&labelColor=0d1117)](https://rewritelabs.vercel.app)
 [![Buy Me A Coffee](https://img.shields.io/badge/Support%20the%20Lab-☕%20Chai%20%245-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/m_adhitya_)
 
 <br/>
@@ -18,7 +18,7 @@
 
 ## Who I am
 
-Solo founder of **Rewrite Labs** — 6 live AI tools and 7 open source libraries, built and shipped independently while in college.
+Solo founder of **Rewrite Labs** — 8 live AI tools and 7 open source libraries, built and shipped independently while in college.
 
 No co-founder. No VC. No team. Just real problems and the engineering to fix them.
 
@@ -28,7 +28,7 @@ No co-founder. No VC. No team. Just real problems and the engineering to fix the
 
 ---
 
-## 🏗 Rewrite Labs — 6 Live AI Tools
+## 🏗 Rewrite Labs — 8 Live AI Tools
 
 | App | What it solves | Pricing |
 |-----|----------------|---------|
@@ -38,6 +38,8 @@ No co-founder. No VC. No team. Just real problems and the engineering to fix the
 | [Lectura.AI](https://lectura-rwl.vercel.app) | Live lecture transcription, PDF summaries, flashcards + quizzes | Free + Pro ₹199/mo |
 | [DataPulse](https://datapulse-rwl.vercel.app) | Upload CSV/Excel → instant charts, metrics, and AI-powered insights | Free + Pro ₹199/mo |
 | [Rewrite OS](https://rewriteos-rwl.vercel.app) | Personal operating system for engineers — goals, habits, career trajectory | 100% Free |
+| [Sage](https://joinsage.vercel.app) | AI nutrition coach — log meals in plain English, track macros and water | Free + Pro ₹399/mo |
+| [Nura](https://meetnura.vercel.app) | AI companion with memory — friend, mentor, study buddy, or therapist | Free + Pro ₹399/mo |
 
 All free to start · No credit card · Built solo · [rewritelabs.vercel.app](https://rewritelabs.vercel.app)
 
@@ -65,7 +67,7 @@ Production code extracted into reusable libraries — MIT licensed, published on
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq%20API-F55036?style=flat-square)
 ![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=3395FF)
