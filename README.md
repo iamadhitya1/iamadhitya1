@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a1a05,100:39FF14&height=150&section=header&text=M%20Adhitya&fontSize=52&fontColor=ffffff&fontAlignY=58&desc=Solo%20founder.%208%20AI%20tools.%207%20OSS%20libraries.%20Still%20in%20college.&descAlignY=78&descSize=14&descColor=39FF14" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a1a05,100:39FF14&height=150&section=header&text=M%20Adhitya&fontSize=52&fontColor=ffffff&fontAlignY=58&desc=Builder.%208%20AI%20tools.%207%20OSS%20libraries.%20Still%20in%20college.&descAlignY=78&descSize=14&descColor=39FF14" width="100%"/>
 
 <br/>
 
@@ -18,9 +18,9 @@
 
 ## Who I am
 
-Solo founder of **Rewrite Labs** — 8 live AI tools and 7 open source libraries, built and shipped independently while in college.
+I run **Rewrite Labs**, my personal studio — 8 live AI tools and 7 open source libraries, built and shipped independently while in college.
 
-No co-founder. No VC. No team. Just real problems and the engineering to fix them.
+No VC. No team. Just real problems and the engineering to fix them.
 
 **3,000+ engineers** use my tools. Featured in **BeerBiceps SkillHouse**. Published author.
 
