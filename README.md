@@ -12,6 +12,8 @@
 
 *B.Tech Computer Engineering · IITRAM Ahmedabad · 2023–2027*
 
+**Open to AI/ML roles** · [adhitya5119@gmail.com](mailto:adhitya5119@gmail.com)
+
 </div>
 
 ---
@@ -89,7 +91,7 @@ Production code extracted into reusable libraries — MIT licensed, published on
 ## 📖 The Book
 
 **The Rewrite: 12 Lives That Escaped the Script** — published January 2026.
-Stories of engineers who ignored the default path and built something real. Reached 3,000+ engineers.
+Stories of engineers who ignored the default path and built something real.
 
 [Get the book →](https://topmate.io/m_adhitya/1868094)
 
