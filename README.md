@@ -4,7 +4,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/8600%2B%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/loveadhitya/)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/loveadhitya/)
 [![Rewrite Labs](https://img.shields.io/badge/Rewrite%20Labs-8%20Live%20AI%20Tools-39FF14?style=for-the-badge&labelColor=0d1117)](https://rewritelabs.vercel.app)
 [![Buy Me A Coffee](https://img.shields.io/badge/Support%20the%20Lab-☕%20Chai%20%245-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/m_adhitya_)
 
@@ -22,7 +22,7 @@ I run **Rewrite Labs**, my personal studio — 8 live AI tools and 7 open source
 
 No VC. No team. Just real problems and the engineering to fix them.
 
-**3,000+ engineers** use my tools. Featured in **BeerBiceps SkillHouse**. Published author.
+Named in a [BeerBiceps SkillHouse article](https://www.beerbicepsskillhouse.in/post/creators-who-explain-ai-in-easy-language) on creators who explain AI in easy language. Published author.
 
 > *"The degree is the floor, not the ceiling. Stop waiting for permission to build."*
 
@@ -80,11 +80,7 @@ Production code extracted into reusable libraries — MIT licensed, published on
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamadhitya1&show_icons=true&theme=dark&bg_color=0d1117&border_color=39FF14&icon_color=39FF14&title_color=39FF14&text_color=ffffff&hide_border=false)](https://github.com/iamadhitya1)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=iamadhitya1&theme=dark&background=0d1117&border=39FF14&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=39FF14&dates=888888)](https://github.com/iamadhitya1)
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iamadhitya1&bg_color=0d1117&color=39FF14&line=39FF14&point=ffffff&area=true&area_color=39FF14&hide_border=true)](https://github.com/iamadhitya1)
 
 </div>
 
@@ -92,7 +88,7 @@ Production code extracted into reusable libraries — MIT licensed, published on
 
 ## 📖 The Book
 
-**The Rewrite: 12 Lives That Escaped the Script** — published December 2025.
+**The Rewrite: 12 Lives That Escaped the Script** — published January 2026.
 Stories of engineers who ignored the default path and built something real. Reached 3,000+ engineers.
 
 [Get the book →](https://topmate.io/m_adhitya/1868094)
