@@ -4,7 +4,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/loveadhitya/)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamadhitya/)
 [![Rewrite Labs](https://img.shields.io/badge/Rewrite%20Labs-8%20Live%20AI%20Tools-39FF14?style=for-the-badge&labelColor=0d1117)](https://rewritelabs.vercel.app)
 [![Buy Me A Coffee](https://img.shields.io/badge/Support%20the%20Lab-☕%20Chai%20%245-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/m_adhitya_)
 
