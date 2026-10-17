@@ -47,6 +47,12 @@ All free to start · No credit card · Built solo · [rewritelabs.vercel.app](ht
 
 ---
 
+## 🛰 GeoVisionGPT — Satellite Image Q&A
+
+Ask a question about a satellite image in plain English and get an answer. A small LiT-4-RSVQA-style model (~8M parameters) with a FastAPI + Next.js app. Mean of 3 training runs: **82.7%** on its training cities and **77.4%** on an unseen city (Philadelphia). [Repo →](https://github.com/iamadhitya1/geovision-gpt)
+
+---
+
 ## 📦 Open Source Libraries
 
 Production code extracted into reusable libraries — MIT licensed, published on npm and PyPI.
