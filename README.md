@@ -24,7 +24,7 @@ I run **Rewrite Labs**, my personal studio — 8 live AI tools and 7 open source
 
 No VC. No team. Just real problems and the engineering to fix them.
 
-Named in a [BeerBiceps SkillHouse article](https://www.beerbicepsskillhouse.in/post/creators-who-explain-ai-in-easy-language) on creators who explain AI in easy language. Published author.
+Published author.
 
 > *"The degree is the floor, not the ceiling. Stop waiting for permission to build."*
 
